@@ -1667,10 +1667,10 @@
           },
           "title": "Guided rundtur i M-Files",
           "meta": "<br>Her er et udvalg af videoer der viser, hvordan man kan anvende M-Files til at styre al information!",
-          "_customHTML": "<section id=\"video1\" class=\"mbr-section mbr-section__container article\" style=\"background-color: rgb(40,130,200); padding-top: 40px; padding-bottom: 50px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h2 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"color: rgb(255, 255, 255);\" code-editable-id=\"257\"><span style=\"font-weight: normal;\">Guided rundtur i M-Files dokumenthåndtering</span></h2>\n                <h3 class=\"mbr-section-subtitle mbr-editable-content\" style=\"color: rgb(255, 255, 255);\" code-editable-id=\"258\">Her er et udvalg af videoer der viser, hvordan man kan anvende M-Files til at styre al information!<br></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section id=\"video1\" style=\"background-color: rgb(40,130,200); padding-top: 40px; padding-bottom: 50px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h2 style=\"color: rgb(255, 255, 255);\">Guided rundtur i M-Files dokumenthåndtering</h2>\n                <h4 style=\"color: rgb(255, 255, 255);\">Her er et udvalg af videoer der viser, hvordan man kan anvende M-Files til at styre al information!<br></h4>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n\ttext-align: left;\n}",
+          "_customCSS": "",
           "_customTemplate": true,
           "_anchor": "header3-c9"
         },
@@ -5353,7 +5353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564266.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564273.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5369,7 +5369,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596267.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596274.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5385,7 +5385,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489268.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489275.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5401,7 +5401,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500269.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500276.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5489,7 +5489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933270.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933277.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5852,7 +5852,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050271.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050278.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6022,7 +6022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050272.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050279.jpg",
               "link": "",
               "alt": "",
               "title": "",
