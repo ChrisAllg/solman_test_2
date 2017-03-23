@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "m-files.html",
     "name": "Solution Management 2",
     "theme": {
       "name": "mobirise3",
@@ -2782,10 +2782,10 @@
           "title": "<span style=\"font-weight: normal;\">Bedste system til Dokumenthåndtering</span>",
           "text": "<b>Top Ten reviews</b> har gennemgået de vigtigste leverandører af dokumenthåndtering og har fundet (de sidste 3 år), at M-Files er det bedste dokumenthåndteringssystem.<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"http://www.toptenreviews.com/business/software/best-document-management-software/m-files-review/\">Læs testen</a> <a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\" href=\"#form\">Gratis Trial</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader12 tab-content mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg); max-height:400px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(61, 142, 185);\">\n    </div> \n    <div class=\"mbr-table mbr-table-full\">\n    \n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                              <div class=\"mbr-table-cell col-md-6 text-xs-center text-md-right content-size\">\n\n                            <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"325\"><span style=\"font-weight: normal;\">Bedste system til Dokumenthåndtering</span></h3>\n\n                            <div class=\"mbr-section-text lead\">\n                                <p class=\"mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"326\"><strong>Top Ten reviews</strong> har gennemgået de vigtigste leverandører af dokumenthåndtering og har fundet (de sidste 3 år), at M-Files er det bedste dokumenthåndteringssystem.<br></p>\n                            </div>\n                            <div class=\"left-button\"><a type=\"submit\" class=\"btn btn-primary mbr-editable-button\" href=\"http://www.toptenreviews.com/business/software/best-document-management-software/m-files-review/\" code-editable-id=\"327\">Læs testen</a> <a type=\"submit\" class=\"btn btn-success mbr-editable-button\" href=\"#form\" code-editable-id=\"328\">Gratis Trial</a></div>\n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-6 image-size\">\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/10of10-1400x875.png\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    \n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full extHeader12 tab-content mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg); max-height:400px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.9; background-color: rgb(61, 142, 185);\">\n    </div> \n    <div class=\"mbr-table mbr-table-full\">\n    \n        <div class=\"mbr-table-cell\">\n            <div class=\"container\">\n                <div class=\"mbr-section row\">\n                    <div class=\"mbr-table-md-up\">\n                              <div class=\"mbr-table-cell col-md-6 text-xs-center text-md-right content-size\">\n\n                            <h3>Bedste system til Dokumenthåndtering</h3>\n\n                            <div class=\"mbr-section-text lead\">\n                                <p class=\"mbr-editable-content\" style=\"text-align: left;\" code-editable-id=\"350\"><strong>Top Ten reviews</strong> har gennemgået de vigtigste leverandører af dokumenthåndtering og har fundet (de sidste 3 år), at M-Files er det bedste dokumenthåndteringssystem.<br></p>\n                            </div>\n                            <div class=\"left-button\"><a type=\"submit\" class=\"btn btn-primary mbr-editable-button\" href=\"http://www.toptenreviews.com/business/software/best-document-management-software/m-files-review/\" code-editable-id=\"351\">Læs testen</a> <a type=\"submit\" class=\"btn btn-success mbr-editable-button\" href=\"#form\" code-editable-id=\"352\">Gratis Trial</a></div>\n\n                        </div>\n                        <div class=\"mbr-table-cell mbr-left-padding-md-up mbr-valign-top col-md-6 image-size\">\n                            <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/10of10-1400x875.png\"></div>\n                        </div>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n    \n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\nH3 {\n\ttext-align: left;\n\tcolor: #ffffff;\n}\nP {\n\tcolor: #ffffff;\n\tfont-family: 'Lato', sans-serif;\n}",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\nH3 {\n\ttext-align: left;\n\tcolor: #ffffff;\n    padding-bottom:20px;\n}\nP {\n\tcolor: #ffffff;\n\tfont-family: 'Lato', sans-serif;\n}",
           "_customTemplate": true,
           "_anchor": "extHeader12-cw"
         },
@@ -5353,7 +5353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564294.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564301.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5369,7 +5369,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596295.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596302.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5385,7 +5385,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489296.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489303.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5401,7 +5401,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500297.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500304.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5489,7 +5489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933298.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933305.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5852,7 +5852,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050299.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050306.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6022,7 +6022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050300.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050307.jpg",
               "link": "",
               "alt": "",
               "title": "",
