@@ -5353,7 +5353,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56484.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56491.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5369,7 +5369,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59685.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59692.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5385,7 +5385,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48986.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x48993.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5401,7 +5401,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50087.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x50094.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5489,7 +5489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93388.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x93395.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5852,7 +5852,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105089.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x105096.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -6022,7 +6022,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105090.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x105097.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8868,7 +8868,7 @@
           "_name": "content1",
           "_anchor": "content1-jl",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
