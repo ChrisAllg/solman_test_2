@@ -4703,7 +4703,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x56498.png",
+              "src": "@PROJECT_PATH@/assets/images/agnostic-iml-600x564105.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4719,7 +4719,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper (PDF)</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x59699.png",
+              "src": "@PROJECT_PATH@/assets/images/ecm-recipe-pic-600x596106.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4735,7 +4735,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a> <a data-app-btn=\"true\" href=\"https://www.m-files.com/en/whitepaper-a-winning-ecm-recipe\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Download Whitepaper<br>(@ M-Files.com)</a> ",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489100.png",
+              "src": "@PROJECT_PATH@/assets/images/at-risk-pic-600x489107.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4751,7 +4751,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Download Infographic (PDF)</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500101.png",
+              "src": "@PROJECT_PATH@/assets/images/integration-pic-600x500108.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4839,7 +4839,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933102.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933109.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5202,7 +5202,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050103.jpg",
+              "src": "@PROJECT_PATH@/assets/images/upn-ipad-1400x1050110.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -5372,7 +5372,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050104.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050111.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -8101,672 +8101,14 @@
         }
       ]
     },
-    "index-old.html": {
+    "index-slide-arrows-not-working.html": {
       "settings": {
-        "main": true,
         "title": "Solution Management ApS",
         "meta_descr": "",
-        "header_custom": "<style>\n@media only screen and (max-width: 479px) {\n   .mobile-hide{ display: none !important; }\n}\n\nh1   {font-family: \"Lato\",sans-serif !important; font-size: 28px !important; font-weight:900 !important;}\n\nh2   {font-family: \"Lato\",sans-serif !important; font-size: 26px !important; font-weight:900 !important;}\n\nh3   {font-family: \"Lato\",sans-serif !important; font-size: 24px !important; font-weight:900 !important;}\n\nh4   {font-family: \"Lato\",sans-serif !important; font-size: 22px !important; font-weight:600 !important;}\n\np  {font-family: \"Lato\",sans-serif !important; font-size: 17px !important; font-weight: 200 !important;}\n\nstrong {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important;}\n\na  {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important; text-decoration: none !important;}\n\n.btn  {font-family: \"Lato\",sans-serif !important; font-size: 12px !important; font-weight: 900 !important;}\n\n.video-container {\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 35px;\n    height: 0;\n    overflow: hidden;\n}\n\n.video-container iframe {\n    position: absolute;\n    top:0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>",
+        "header_custom": "<style>\n\nh1   {font-family: \"Lato\",sans-serif !important; font-size: 28px !important; font-weight:900 !important;}\n\nh2   {font-family: \"Lato\",sans-serif !important; font-size: 26px !important; font-weight:900 !important;}\n\nh3   {font-family: \"Lato\",sans-serif !important; font-size: 24px !important; font-weight:900 !important;}\n\nh4   {font-family: \"Lato\",sans-serif !important; font-size: 22px !important; font-weight:600 !important;}\n\np  {font-family: \"Lato\",sans-serif !important; font-size: 17px !important; font-weight: 200 !important;}\n\nstrong {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important;}\n\na  {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important; text-decoration: none !important;}\n\n.btn  {font-family: \"Lato\",sans-serif !important; font-size: 12px !important; font-weight: 900 !important;}\n\n.video-container {\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 35px;\n    height: 0;\n    overflow: hidden;\n}\n\n.video-container iframe {\n    position: absolute;\n    top:0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>",
         "footer_custom": "",
         "html_before": "",
         "order": 11
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#333333",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright Solution Management ApS. All rights reserved."
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-lead": {
-              "color": "#fff"
-            },
-            "B": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "25px"
-            },
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "15px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_customCSS": "@media(max-width:767px) {\n.slider2-er {display:none;}\n}\n\nsection {\n    color:#fff;\n}",
-          "_params": {
-            "autoplay": true,
-            "timeout": "8",
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/cph-slide-2000x1000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "overlayColor": "#001e33",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Solution Management",
-                "showText": true,
-                "text": "<b>IT for People</b><br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features3-f\" data-toolbar=\"-mbrBtnMove\">Til Software</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nimbus.html\" data-toolbar=\"-mbrBtnMove\"><strong>Nimbus</strong><strong><br></strong>Førstå jeres forretning</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html\" data-toolbar=\"-mbrBtnMove\"><strong>M-Files</strong><strong><br></strong>Find jeres data hurtigere</a>  "
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/m-files-slide-2000x1000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.8",
-                "overlayColor": "#002f60",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Nem Dokumenthåndteing",
-                "showText": true,
-                "text": "<b>M-Files </b>er en førende Global leverandør af software til styring af dokumenter og anden information, nemt og hurtigt med Metadata!<br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Til M-Files</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"m-files.html#video1\" data-toolbar=\"-mbrBtnMove\"><strong>Guided Video tur</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"m-files.html#form\" data-toolbar=\"-mbrBtnMove\"><strong>Gratis trial</strong></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html#dokument\" data-toolbar=\"-mbrBtnMove\">Find din data lynhurtigt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html\" data-toolbar=\"-mbrBtnMove\">Windows, Web og Mobil</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html\" data-toolbar=\"-mbrBtnMove\">Konfigurere egne løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html#dokument\" data-toolbar=\"-mbrBtnMove\">Metadata</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html#dokument\" data-toolbar=\"-mbrBtnMove\">Workflows</a> "
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/nimbus-slide-2000x1000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.8",
-                "overlayColor": "#033d51",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Business Process Management",
-                "showText": true,
-                "text": "<b>TIBCO Nimbus </b>giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.<br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Til Nimbus</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Personlig demo</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Trial </strong>(Lite version)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Funktioner</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Whitepaper</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/intrexx-slide-2000x1000.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "overlayColor": "#120245",
-                "contentAlign": "left",
-                "showTitle": true,
-                "title": "Intrexx",
-                "showText": true,
-                "text": "Forretningsapplikationer med et minimum af opsætning og udvikling.<br>",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Til Intrexx</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Online demo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Personlig demo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Whitepaper</a>"
-              }
-            ],
-            "bgColor": "#000000",
-            "showBullets": true
-          },
-          "_anchor": "slider2-er"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-ep",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff"
-          },
-          "text": "<h2>Vi leverer Software, der er nem at bruge</h2><p>Vi leverer nemme løsninger baseret på software fra vore partnere:<b> <a href=\"m-files.html\">M-Files (dokumenthåndtering og workflow)</a></b>, <a href=\"nimbus.html\">TIBCO Nimbus (dokumentation af forretningsprocesser)</a> samt <a href=\"intrexx.html\">Intrexx (low-code portalløsninge rog workflow)</a>.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden som certificerede partnere med vore leverandører, og har stor erfaring med at hjælpe såvel store som mellemstore og små virksomheder.</span></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_styles": {
-            "H5": {
-              "text-align": "left",
-              "font-size": "18px"
-            },
-            "H4": {
-              "text-align": "left",
-              "font-size": "24px",
-              "color": "#333333"
-            },
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "13px"
-            },
-            "P": {
-              "text-align": "left",
-              "font-size": "16px",
-              "color": "#666666"
-            }
-          },
-          "_anchor": "features3-f",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/m-files-gold-partner-600x200.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Dokumenthåndtering og ESDH&nbsp;",
-          "subtitle1": "Find jeres data hurtigere.",
-          "caption1": "Vi er M-Files Gold Partners. M-Files er et anerkendt system til dokumenthåndtering, der gør det nemt at gemme, finde og søge efter dokumenter og anden information i virksomheden.<br><br>- Nem dokumenthåndtering med lynhurtig søgning<br>- Fuld funktionalitet og nem konfigurering af Workflows<br>- Metadatabaseret<br>- Prækonfigurerede løsninger<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"m-files.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Til M-Files</a> <a data-app-btn=\"true\" href=\"m-files.html#form\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Gratis trial</a> <a data-app-btn=\"true\" href=\"m-files.html#form\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Få en demo</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/tibco-nimbus-tm-3-600x200.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "Proces visualisering",
-          "subtitle2": "Sikre at i alle førstår jeres opgaver.",
-          "caption2": "Vi er Premium Resellers af TIBCO Nimbus. Med TIBCO Nimbus får man dokumenteret sine forretningsprocesser og sikrer, at medarbejderne forstår opgaverne i sin rolle.<br><br>- Hurtig procesdokumentation i webben<br>- Personlig portal med processer og dokumenter<br>- Kvalitetssystem – ISO, etc.<br>- Rollespecifikke processer<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"nimbus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Til Nimbus</a> <a data-app-btn=\"true\" href=\"nimbus.html#form\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Gratis trial</a> <a data-app-btn=\"true\" href=\"nimbus.html#form\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Få en demo</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/intrexx-partner-600x200.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "Low-Code business applications",
-          "subtitle3": "Kom hurtigt igang med jeres web portal.",
-          "caption3": "Vi er registered Intrexx partners. Opret nemme web apps til din virksomhed, der automatiserer processer og muliggør socialt samarbejde.<br><br>- Portal software<br>- Nem og hurtig at konfigurere<br>- Intranet og Extranet<br>- Appstore med færdige løsninger<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"intrexx.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Til Intrexx</a> <a data-app-btn=\"true\" href=\"intrexx.html#msg-box5-f1\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Live demo</a> <a data-app-btn=\"true\" href=\"intrexx.html#form\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Fuld demo</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "13px"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-family": "'Lato', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#36bfff!important"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_name": "ext.menu",
-          "_customCSS": ".nav {\n    padding-left: 0px;\n    margin-bottom: 0px;\n    margin-top: 19px;\n}\n",
-          "_anchor": "ext_menu-5",
-          "_params": {
-            "bgColor": "#ffffff",
-            "fontSize": "0.85",
-            "fontName": {
-              "name": "Lato",
-              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "css": "'Lato', sans-serif"
-            },
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/solution-management-aps-230x128.png",
-              "height": 128,
-              "alt": "Solution Management ApS",
-              "link": "https://mobirise.com",
-              "title": "Solution Management ApS",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>IT for People</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Hjem</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Software</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"m-files.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">M-Files</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"m-files.html\">Nem Dokumenthåndtering</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"esdh.html\">Elektronisk Sags- og Dokumenthåndtering (ESDH)</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nimbus.html\">TIBCO Nimbus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intrexx.html\">Intrexx<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"losninger.html\">Løsninger</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"konsulentydelser.html\">Konsultentydelser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt-os.html#om-os\">Om os</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"software-demos\">Software demos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"kontakt-os.html\">Kontakt os</a></li>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead P": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "30px"
-            },
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-s",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Softwareløsninger anerkendt af Gartner og Forrester&nbsp;",
-          "text": "<p>Vi leverer softwareløsningerne M-Files (dokumenthåndtering og workflow), TIBCO Nimbus (dokumentation af forretningsprocesser) samt Intrexx (low-code portalløsninger og workflow). Alle vore softwareprodukter er anerkendte af de ledende analysefirmaer Gartner og Forrester.</p><p>Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden. Vi er certificerede partnere med vore leverandører, og har stor erfaring med at hjælpe såvel store som mellemstore og små virksomheder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Til Software</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a> "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-l",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgColor": "#efefef"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Software demos</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"m-files.html#anerkendt\" data-toolbar=\"-mbrBtnMove\">Til Reviews</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            "P": {
-              "color": "#232323",
-              "font-size": "18px"
-            },
-            ".mbr-section-title": {
-              "color": "#232323",
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-o",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/checkboxes-5-2000x1200.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#efefef",
-            "showTitle": true,
-            "showCaption": true
-          },
-          "title": "Kvalitet og Compliance",
-          "caption": "<p>Vi har særlig erfaring med at arbejde med kvalitet og compliance. Således har vi hjulpet virksomheder med at dokumentere visuelle forretningsprocesser til understøtning af ISO-Certificering. Ligeledes har vi implementeret dokumenthåndteringssystemer i sammenhæng med de visuelle forretningsprocesser. Herudover har vi udviklet workflow- og portalløsninger til varetagelse af opgaver omkring kvalitetssystemerne, herunder Hændelser, Afvigelser (CAPA), Change Requests osv.</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "bgColor": "#f9f9f9"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Få en demo</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
-        },
-        {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            },
-            ".lead UL": {
-              "text-align": "left",
-              "font-size": "18px",
-              "color": "#232323"
-            },
-            ".lead P": {
-              "text-align": "left",
-              "font-size": "18px",
-              "color": "#333333"
-            },
-            ".mbr-section-title": {
-              "text-align": "left",
-              "font-size": "30px",
-              "color": "#333333"
-            },
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-q",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#ffffff",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Løsninger",
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi assisterer vore kunder med at anvende softwareløsningerne til at støtte deres virksomhed indenfor en række procesområder:</span></p><ul><li>&nbsp; &nbsp; Sagsstyring (ESDH)</li><li>&nbsp; &nbsp; Kvalitetsstyring (QMS) og compliance</li><li>&nbsp; &nbsp; CRM</li><li>&nbsp; &nbsp; Projektstyring</li><li>&nbsp; &nbsp; Kontraktstyring</li><li>&nbsp; &nbsp; HR</li><li>&nbsp; &nbsp; Månedsafslutning</li><li>&nbsp; &nbsp; Leverandør fakturaer</li><li>&nbsp; &nbsp; Indscanning</li><li>&nbsp; &nbsp; Intranet</li><li>&nbsp; &nbsp; Extranet</li></ul>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Til Løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_styles": {
-            ".btn": {
-              "font-size": "18px"
-            }
-          },
-          "_anchor": "buttons1-t",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "3",
-            "bgColor": "#ffffff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"losninger.html\" data-toolbar=\"-mbrBtnMove\">Til løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div id=\"form\"></div>",
-          "_customCSS": "",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-es"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_customHTML": "<div class=\"contact-form\">\n\n<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"533\">\n                <section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 60px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"534\">\n            \n{JS_CODE_0}\n\n\n\n\n<style type=\"text/css\" scoped=\"\">\n    .mauticform_wrapper { max-width: 600px; margin: 10px auto; }\n    .mauticform-innerform {}\n    .mauticform-post-success {}\n    .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }\n    .mauticform-description { margin-top: 2px; margin-bottom: 10px; }\n    .mauticform-error { margin-bottom: 10px; color: red; }\n    .mauticform-message { margin-bottom: 10px;color: green; }\n    .mauticform-row { display: block; margin-bottom: 20px; }\n    .mauticform-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }\n    .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: \" *\"; display: inline; }\n    .mauticform-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }\n    .mauticform-errormsg { display: block; color: red; margin-top: 2px; }\n    .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border: 1px solid #CCC; background: #fff; box-shadow: 0px 0px 0px #fff inset; border-radius: 4px; box-sizing: border-box; }\n    .mauticform-checkboxgrp-row {}\n    .mauticform-checkboxgrp-label { font-weight: normal; }\n    .mauticform-checkboxgrp-checkbox {}\n    .mauticform-radiogrp-row {}\n    .mauticform-radiogrp-label { font-weight: normal; }\n    .mauticform-radiogrp-radio {}\n    .mauticform-button-wrapper .mauticform-button.btn-default, .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-default { color: #5d6c7c;background-color: #ffffff;border-color: #dddddd;}\n    .mauticform-button-wrapper .mauticform-button, .mauticform-pagebreak-wrapper .mauticform-pagebreak { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 6px 12px;font-size: 13px;line-height: 1.3856;border-radius: 3px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}\n    .mauticform-button-wrapper .mauticform-button.btn-default[disabled], .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd; opacity: 0.75; cursor: not-allowed; }\n    .mauticform-pagebreak-wrapper .mauticform-button-wrapper {  display: inline; }\n</style>\n<div id=\"mauticform_wrapper_kontaktos\" class=\"mauticform_wrapper\">\n    <form autocomplete=\"false\" role=\"form\" method=\"post\" action=\"https://solman.mautic.net/form/submit?formId=8\" id=\"mauticform_kontaktos\" data-mautic-form=\"kontaktos\" target=\"mauticiframe_kontaktos\">\n        <div class=\"mauticform-error\" id=\"mauticform_kontaktos_error\"></div>\n        <div class=\"mauticform-message\" id=\"mauticform_kontaktos_message\"></div>\n        <div class=\"mauticform-innerform\">\n\n            \n          <div class=\"mauticform-page-wrapper mauticform-page-1\" data-mautic-form-page=\"1\">\n\n            <div id=\"mauticform_kontaktos_kontakt_os\" class=\"mauticform-row mauticform-freetext mauticform-field-1\">    \n                <h3 id=\"mauticform_label_kontaktos_kontakt_os\" for=\"mauticform_input_kontaktos_kontakt_os\" class=\"mauticform-label\">\n                    Kontakt os\n                </h3>\n                <div id=\"mauticform_input_kontaktos_kontakt_os\" name=\"mauticform[kontakt_os]\" value=\"\" class=\"mauticform-freetext\">\n                    <p class=\"\"><strong fr-original-style=\"font-weight: 700;\" style=\"font-weight: 700;\">Vil du gerne vide mere?</strong> Vi er til rådighed via opkald, møder eller webinars for at vise vores software og innovative forretningsløsninger samt diskutere, hvordan vi kan hjælpe din virksomhed.</p>\n                </div>\n            </div>\n\n            <div id=\"mauticform_kontaktos_full_name\" data-validate=\"full_name\" data-validation-type=\"text\" class=\"mauticform-row mauticform-text mauticform-field-2 mauticform-required\">\n                <label id=\"mauticform_label_kontaktos_full_name\" for=\"mauticform_input_kontaktos_full_name\" class=\"mauticform-label\">Fuldt Navn</label>\n                <input id=\"mauticform_input_kontaktos_full_name\" name=\"mauticform[full_name]\" value=\"\" placeholder=\"Indtast navn\" class=\"mauticform-input\" type=\"text\">\n                <span class=\"mauticform-errormsg\" style=\"display: none;\">Please enter your name</span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_email\" data-validate=\"email\" data-validation-type=\"email\" class=\"mauticform-row mauticform-email mauticform-field-3 mauticform-required\">\n                <label id=\"mauticform_label_kontaktos_email\" for=\"mauticform_input_kontaktos_email\" class=\"mauticform-label\">Email</label>\n                <input id=\"mauticform_input_kontaktos_email\" name=\"mauticform[email]\" value=\"\" placeholder=\"Indtast email\" class=\"mauticform-input\" type=\"email\">\n                <span class=\"mauticform-errormsg\" style=\"display: none;\">Please enter your email</span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_telefon\" data-validate=\"telefon\" data-validation-type=\"text\" class=\"mauticform-row mauticform-text mauticform-field-4 mauticform-required\">\n                <label id=\"mauticform_label_kontaktos_telefon\" for=\"mauticform_input_kontaktos_telefon\" class=\"mauticform-label\">Telefon</label>\n                <input id=\"mauticform_input_kontaktos_telefon\" name=\"mauticform[telefon]\" value=\"\" class=\"mauticform-input\" type=\"text\">\n                <span class=\"mauticform-errormsg\" style=\"display: none;\">Venligst indast telefonnummer</span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_sporgsmal\" class=\"mauticform-row mauticform-text mauticform-field-5\">\n                <label id=\"mauticform_label_kontaktos_sporgsmal\" for=\"mauticform_input_kontaktos_sporgsmal\" class=\"mauticform-label\">Spørgsmål</label>\n                <textarea id=\"mauticform_input_kontaktos_sporgsmal\" name=\"mauticform[sporgsmal]\" class=\"mauticform-textarea\"></textarea>\n                <span class=\"mauticform-errormsg\" style=\"display: none;\"></span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_software_der_interesserer\" class=\"mauticform-row mauticform-checkboxgrp mauticform-field-6\">\n                <label class=\"mauticform-label\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_DokumenthandteringESDHMFiles1\">Software, der interesserer mig</label>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_software_der_interesserer_DokumenthandteringESDHMFiles0\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_DokumenthandteringESDHMFiles0\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[software_der_interesserer][]\" id=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_DokumenthandteringESDHMFiles0\" type=\"checkbox\" value=\"Dokumenthåndtering, ESDH (M-Files)\">\n                        Dokumenthåndtering, ESDH (M-Files)\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_software_der_interesserer_ProcesstyringQMSNimbus1\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_ProcesstyringQMSNimbus1\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[software_der_interesserer][]\" id=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_ProcesstyringQMSNimbus1\" type=\"checkbox\" value=\"Processtyring, QMS (Nimbus)\">\n                        Processtyring, QMS (Nimbus)\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_software_der_interesserer_LowCodelosningerogappstilintraogextranetIntrexx2\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_LowCodelosningerogappstilintraogextranetIntrexx2\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[software_der_interesserer][]\" id=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_LowCodelosningerogappstilintraogextranetIntrexx2\" type=\"checkbox\" value=\"Low-Code løsninger og apps til intra- og extranet (Intrexx)\">\n                        Low-Code løsninger og apps til intra- og extranet (Intrexx)\n                    </label>\n                </div>\n                <span class=\"mauticform-errormsg\" style=\"display: none;\"></span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_jeg_vil\" class=\"mauticform-row mauticform-checkboxgrp mauticform-field-7\">\n                <label class=\"mauticform-label\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faentrial1\">Jeg vil</label>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Faentrial0\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faentrial0\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faentrial0\" type=\"checkbox\" value=\"Få en trial\">\n                        Få en trial\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Faenpersonligdemo1\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faenpersonligdemo1\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faenpersonligdemo1\" type=\"checkbox\" value=\"Få en personlig demo\">\n                        Få en personlig demo\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Faettelefonopkald2\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faettelefonopkald2\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faettelefonopkald2\" type=\"checkbox\" value=\"Få et telefonopkald\">\n                        Få et telefonopkald\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Fainformationsendttilminmail3\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Fainformationsendttilminmail3\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Fainformationsendttilminmail3\" type=\"checkbox\" value=\"Få information sendt til min mail\">\n                        Få information sendt til min mail\n                    </label>\n                </div>\n                <span class=\"mauticform-errormsg\" style=\"display: none;\"></span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_submit\" class=\"mauticform-row mauticform-button-wrapper mauticform-field-8\">\n                <button type=\"submit\" name=\"mauticform[submit]\" id=\"mauticform_input_kontaktos_submit\" value=\"\" class=\"mauticform-button\">Send</button>\n            </div>\n            <div id=\"mauticform_kontaktos_contact\" class=\"mauticform-row mauticform-freetext mauticform-field-9\">\n                <div id=\"mauticform_input_kontaktos_contact\" name=\"mauticform[contact]\" value=\"\" class=\"mauticform-freetext\">\n                    <p class=\"\"></p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50.0000%;\"><img fr-original-class=\"fr-dii fr-draggable fr-fil\" fr-original-style=\"position: relative; max-width: 100%; width: 220px;\" style=\"max-width: 100%; width: 220px;\" src=\"http://solutionmanagement.eu/dansk/wp-content/uploads/steen-circle-photo.png\" alt=\"steen-circle-photo\" height=\"220\" width=\"220\" class=\"fr-fil fr-dii\"><br></td><td style=\"width: 50.0000%;\"><strong>Steen Madsen</strong><br>Det er Steen der kommer til at hjelpe deg med din forespørgsel. Hvis det är noget du er i tvivl om, så ring eller skriv til ham.<br><br><strong>Mobile:</strong> +45 2141 6100<br>steen.madsen@solutionmanagement.eu<br></td></tr></tbody></table>\n                </div>\n            </div>\n\n            </div>\n        </div>\n\n        <input type=\"hidden\" name=\"mauticform[formId]\" id=\"mauticform_kontaktos_id\" value=\"8\" class=\"animated fadeInUp\">\n        <input type=\"hidden\" name=\"mauticform[return]\" id=\"mauticform_kontaktos_return\" value=\"\" class=\"animated fadeInUp\">\n        <input type=\"hidden\" name=\"mauticform[formName]\" id=\"mauticform_kontaktos_name\" value=\"kontaktos\" class=\"animated fadeInUp\">\n<input type=\"hidden\" name=\"mauticform[messenger]\" id=\"mauticform_kontaktos_messenger\" value=\"1\"></form>\n</div>\n\n            </div>\n        </div>\n    </div>\n\n</section>\n            </div>\n        </div>\n    </div>\n\n</section>\n    \n<div class=\"contact-form\"></div></div>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\">\n\n    /** This section is only needed once per page if manually copying **/\n    if (typeof MauticSDKLoaded == 'undefined') {\n        var MauticSDKLoaded = true;\n        var head            = document.getElementsByTagName('head')[0];\n        var script          = document.createElement('script');\n        script.type         = 'text/javascript';\n        script.src          = 'https://solman.mautic.net/mautic/media/js/mautic-form.js';\n        script.onload       = function() {\n            MauticSDK.onLoad();\n        };\n        head.appendChild(script);\n        var MauticDomain = 'https://solman.mautic.net';\n        var MauticLang   = {\n            'submittingMessage': \"Please wait...\"\n        }\n    }\n</script>"
-          ],
-          "_customCSS": ".contact-form {color:#FFF}\n.contact-form button, input, select, textarea {color:#333}",
-          "_customTemplate": true,
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColor": "#fff"
-          },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_anchor": "content1-x"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "17px",
-              "color": "#cccccc",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            },
-            "B": {
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          },
-          "_anchor": "contacts1-y",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#333333",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
-              "width": 128,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "linkedin",
-              "family": "socicon",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#27aae0"
-            }
-          },
-          "text1": "<span style=\"line-height: 1.5;\">Solution Management ApS</span><br><br>Ring +45 2141 6100<br>sales@solutionmanagement.eu<br>",
-          "text2": "<span style=\"line-height: 1.5;\">Arne Jacobsens Allé 7</span><br>2300 Copenhagen S<br>Denmark<br>VAT no. 32832792 (DK32832792)",
-          "text3": "Sitemap<br>LinkedIn<br>Til vores Blog<br>M-Files.com<br>TIBCO.com<br>"
-        }
-      ]
-    },
-    "index.html": {
-      "settings": {
-        "title": "Solution Management ApS",
-        "meta_descr": "",
-        "header_custom": "<style>\n@media only screen and (max-width: 479px) {\n   .mobile-hide{ display: none !important; }\n}\n\nh1   {font-family: \"Lato\",sans-serif !important; font-size: 28px !important; font-weight:900 !important;}\n\nh2   {font-family: \"Lato\",sans-serif !important; font-size: 26px !important; font-weight:900 !important;}\n\nh3   {font-family: \"Lato\",sans-serif !important; font-size: 24px !important; font-weight:900 !important;}\n\nh4   {font-family: \"Lato\",sans-serif !important; font-size: 22px !important; font-weight:600 !important;}\n\np  {font-family: \"Lato\",sans-serif !important; font-size: 17px !important; font-weight: 200 !important;}\n\nstrong {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important;}\n\na  {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important; text-decoration: none !important;}\n\n.btn  {font-family: \"Lato\",sans-serif !important; font-size: 12px !important; font-weight: 900 !important;}\n\n.video-container {\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 35px;\n    height: 0;\n    overflow: hidden;\n}\n\n.video-container iframe {\n    position: absolute;\n    top:0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>",
-        "footer_custom": "",
-        "html_before": "",
-        "order": 1
       },
       "components": [
         {
@@ -9366,6 +8708,664 @@
             }
           },
           "_anchor": "contacts1-jw",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-128x85.jpg",
+              "width": 128,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "linkedin",
+              "family": "socicon",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#27aae0"
+            }
+          },
+          "text1": "<span style=\"line-height: 1.5;\">Solution Management ApS</span><br><br>Ring +45 2141 6100<br>sales@solutionmanagement.eu<br>",
+          "text2": "<span style=\"line-height: 1.5;\">Arne Jacobsens Allé 7</span><br>2300 Copenhagen S<br>Denmark<br>VAT no. 32832792 (DK32832792)",
+          "text3": "Sitemap<br>LinkedIn<br>Til vores Blog<br>M-Files.com<br>TIBCO.com<br>"
+        }
+      ]
+    },
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Solution Management ApS",
+        "meta_descr": "",
+        "header_custom": "<style>\n@media only screen and (max-width: 479px) {\n   .mobile-hide{ display: none !important; }\n}\n\nh1   {font-family: \"Lato\",sans-serif !important; font-size: 28px !important; font-weight:900 !important;}\n\nh2   {font-family: \"Lato\",sans-serif !important; font-size: 26px !important; font-weight:900 !important;}\n\nh3   {font-family: \"Lato\",sans-serif !important; font-size: 24px !important; font-weight:900 !important;}\n\nh4   {font-family: \"Lato\",sans-serif !important; font-size: 22px !important; font-weight:600 !important;}\n\np  {font-family: \"Lato\",sans-serif !important; font-size: 17px !important; font-weight: 200 !important;}\n\nstrong {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important;}\n\na  {font-family: \"Lato\",sans-serif !important; font-weight: 400 !important; text-decoration: none !important;}\n\n.btn  {font-family: \"Lato\",sans-serif !important; font-size: 12px !important; font-weight: 900 !important;}\n\n.video-container {\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 35px;\n    height: 0;\n    overflow: hidden;\n}\n\n.video-container iframe {\n    position: absolute;\n    top:0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#333333",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright Solution Management ApS. All rights reserved."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            },
+            "B": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_customCSS": "@media(max-width:767px) {\n#mbr-slider {display:none;}\n}\n\nsection {\n    color:#fff;\n}",
+          "_params": {
+            "autoplay": true,
+            "timeout": "8",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/cph-slide-2000x1000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#001e33",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Solution Management",
+                "showText": true,
+                "text": "<b>IT for People</b><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features3-f\" data-toolbar=\"-mbrBtnMove\">Til Software</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"nimbus.html\" data-toolbar=\"-mbrBtnMove\"><strong>Nimbus</strong><strong><br></strong>Førstå jeres forretning</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html\" data-toolbar=\"-mbrBtnMove\"><strong>M-Files</strong><strong><br></strong>Find jeres data hurtigere</a>  "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/m-files-slide-2000x1000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "overlayColor": "#002f60",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Nem Dokumenthåndteing",
+                "showText": true,
+                "text": "<b>M-Files </b>er en førende Global leverandør af software til styring af dokumenter og anden information, nemt og hurtigt med Metadata!<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Til M-Files</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"m-files.html#video1\" data-toolbar=\"-mbrBtnMove\"><strong>Guided Video tur</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"m-files.html#form\" data-toolbar=\"-mbrBtnMove\"><strong>Gratis trial</strong></a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html#dokument\" data-toolbar=\"-mbrBtnMove\">Find din data lynhurtigt</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html\" data-toolbar=\"-mbrBtnMove\">Windows, Web og Mobil</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html\" data-toolbar=\"-mbrBtnMove\">Konfigurere egne løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html#dokument\" data-toolbar=\"-mbrBtnMove\">Metadata</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"m-files.html#dokument\" data-toolbar=\"-mbrBtnMove\">Workflows</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nimbus-slide-2000x1000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "overlayColor": "#033d51",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Business Process Management",
+                "showText": true,
+                "text": "<b>TIBCO Nimbus </b>giver dig mulighed for at dokumentere og implementere dine forretningsprocesser i et format og sprog, der er let forståeligt for alle dine medarbejdere.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Til Nimbus</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Personlig demo</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Trial </strong>(Lite version)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Funktioner</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Whitepaper</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/intrexx-slide-2000x1000.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.6",
+                "overlayColor": "#120245",
+                "contentAlign": "left",
+                "showTitle": true,
+                "title": "Intrexx",
+                "showText": true,
+                "text": "Forretningsapplikationer med et minimum af opsætning og udvikling.<br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Til Intrexx</strong></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Online demo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Personlig demo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Whitepaper</a>"
+              }
+            ],
+            "bgColor": "#000000",
+            "showBullets": true
+          },
+          "_anchor": "slider2-er"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-ep",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text": "<h2>Vi leverer Software, der er nem at bruge</h2><p>Vi leverer nemme løsninger baseret på software fra vore partnere:<b> <a href=\"m-files.html\">M-Files (dokumenthåndtering og workflow)</a></b>, <a href=\"nimbus.html\">TIBCO Nimbus (dokumentation af forretningsprocesser)</a> samt <a href=\"intrexx.html\">Intrexx (low-code portalløsninge rog workflow)</a>.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden som certificerede partnere med vore leverandører, og har stor erfaring med at hjælpe såvel store som mellemstore og små virksomheder.</span></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "text-align": "left",
+              "font-size": "18px"
+            },
+            "H4": {
+              "text-align": "left",
+              "font-size": "24px",
+              "color": "#333333"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "16px",
+              "color": "#666666"
+            }
+          },
+          "_anchor": "features3-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "3",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/m-files-gold-partner-600x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Dokumenthåndtering og ESDH&nbsp;",
+          "subtitle1": "Find jeres data hurtigere.",
+          "caption1": "Vi er M-Files Gold Partners. M-Files er et anerkendt system til dokumenthåndtering, der gør det nemt at gemme, finde og søge efter dokumenter og anden information i virksomheden.<br><br>- Nem dokumenthåndtering med lynhurtig søgning<br>- Fuld funktionalitet og nem konfigurering af Workflows<br>- Metadatabaseret<br>- Prækonfigurerede løsninger<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"m-files.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Til M-Files</a> <a data-app-btn=\"true\" href=\"m-files.html#form\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Gratis trial</a> <a data-app-btn=\"true\" href=\"m-files.html#form\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Få en demo</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/tibco-nimbus-tm-3-600x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Proces visualisering",
+          "subtitle2": "Sikre at i alle førstår jeres opgaver.",
+          "caption2": "Vi er Premium Resellers af TIBCO Nimbus. Med TIBCO Nimbus får man dokumenteret sine forretningsprocesser og sikrer, at medarbejderne forstår opgaverne i sin rolle.<br><br>- Hurtig procesdokumentation i webben<br>- Personlig portal med processer og dokumenter<br>- Kvalitetssystem – ISO, etc.<br>- Rollespecifikke processer<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"nimbus.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Til Nimbus</a> <a data-app-btn=\"true\" href=\"nimbus.html#form\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Gratis trial</a> <a data-app-btn=\"true\" href=\"nimbus.html#form\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Få en demo</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/intrexx-partner-600x200.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Low-Code business applications",
+          "subtitle3": "Kom hurtigt igang med jeres web portal.",
+          "caption3": "Vi er registered Intrexx partners. Opret nemme web apps til din virksomhed, der automatiserer processer og muliggør socialt samarbejde.<br><br>- Portal software<br>- Nem og hurtig at konfigurere<br>- Intranet og Extranet<br>- Appstore med færdige løsninger<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"intrexx.html\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\">Til Intrexx</a> <a data-app-btn=\"true\" href=\"intrexx.html#msg-box5-f1\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Live demo</a> <a data-app-btn=\"true\" href=\"intrexx.html#form\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">Fuld demo</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "13px"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#36bfff!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": ".nav {\n    padding-left: 0px;\n    margin-bottom: 0px;\n    margin-top: 19px;\n}\n",
+          "_anchor": "ext_menu-5",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.85",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/solution-management-aps-230x128.png",
+              "height": 128,
+              "alt": "Solution Management ApS",
+              "link": "https://mobirise.com",
+              "title": "Solution Management ApS",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"><br>IT for People</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Hjem</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#features3-f\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Software</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"m-files.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">M-Files</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"m-files.html\">Nem Dokumenthåndtering</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"esdh.html\">Elektronisk Sags- og Dokumenthåndtering (ESDH)</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"nimbus.html\">TIBCO Nimbus<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"intrexx.html\">Intrexx<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"losninger.html\">Løsninger</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"konsulentydelser.html\">Konsultentydelser</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt-os.html#om-os\">Om os</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"software-demos\">Software demos</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-info\" href=\"kontakt-os.html\">Kontakt os</a></li>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Softwareløsninger anerkendt af Gartner og Forrester&nbsp;",
+          "text": "<p>Vi leverer softwareløsningerne M-Files (dokumenthåndtering og workflow), TIBCO Nimbus (dokumentation af forretningsprocesser) samt Intrexx (low-code portalløsninger og workflow). Alle vore softwareprodukter er anerkendte af de ledende analysefirmaer Gartner og Forrester.</p><p>Vi er baseret i København, men arbejder i hele Danmark og på tværs af Norden. Vi er certificerede partnere med vore leverandører, og har stor erfaring med at hjælpe såvel store som mellemstore og små virksomheder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Til Software</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-l",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#efefef"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"software-demos\" data-toolbar=\"-mbrBtnMove\">Software demos</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"m-files.html#anerkendt\" data-toolbar=\"-mbrBtnMove\">Til Reviews</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#232323",
+              "font-size": "18px"
+            },
+            ".mbr-section-title": {
+              "color": "#232323",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-o",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/checkboxes-5-2000x1200.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#efefef",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "Kvalitet og Compliance",
+          "caption": "<p>Vi har særlig erfaring med at arbejde med kvalitet og compliance. Således har vi hjulpet virksomheder med at dokumentere visuelle forretningsprocesser til understøtning af ISO-Certificering. Ligeledes har vi implementeret dokumenthåndteringssystemer i sammenhæng med de visuelle forretningsprocesser. Herudover har vi udviklet workflow- og portalløsninger til varetagelse af opgaver omkring kvalitetssystemerne, herunder Hændelser, Afvigelser (CAPA), Change Requests osv.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "bgColor": "#f9f9f9"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Få en demo</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead UL": {
+              "text-align": "left",
+              "font-size": "18px",
+              "color": "#232323"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "18px",
+              "color": "#333333"
+            },
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "30px",
+              "color": "#333333"
+            },
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-q",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1328.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Løsninger",
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Vi assisterer vore kunder med at anvende softwareløsningerne til at støtte deres virksomhed indenfor en række procesområder:</span></p><ul><li>&nbsp; &nbsp; Sagsstyring (ESDH)</li><li>&nbsp; &nbsp; Kvalitetsstyring (QMS) og compliance</li><li>&nbsp; &nbsp; CRM</li><li>&nbsp; &nbsp; Projektstyring</li><li>&nbsp; &nbsp; Kontraktstyring</li><li>&nbsp; &nbsp; HR</li><li>&nbsp; &nbsp; Månedsafslutning</li><li>&nbsp; &nbsp; Leverandør fakturaer</li><li>&nbsp; &nbsp; Indscanning</li><li>&nbsp; &nbsp; Intranet</li><li>&nbsp; &nbsp; Extranet</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Til Løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "buttons1-t",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"losninger.html\" data-toolbar=\"-mbrBtnMove\">Til løsninger</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"#form\" data-toolbar=\"-mbrBtnMove\">Kontakt os</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div id=\"form\"></div>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-es"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_customHTML": "<div class=\"contact-form\">\n\n<section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 40px; padding-bottom: 40px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"533\">\n                <section class=\"mbr-section article mbr-section__container\" style=\"background-color: rgb(0,79,108); padding-top: 60px; padding-bottom: 60px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 lead mbr-editable-full\" code-editable-id=\"534\">\n            \n{JS_CODE_0}\n\n\n\n\n<style type=\"text/css\" scoped=\"\">\n    .mauticform_wrapper { max-width: 600px; margin: 10px auto; }\n    .mauticform-innerform {}\n    .mauticform-post-success {}\n    .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }\n    .mauticform-description { margin-top: 2px; margin-bottom: 10px; }\n    .mauticform-error { margin-bottom: 10px; color: red; }\n    .mauticform-message { margin-bottom: 10px;color: green; }\n    .mauticform-row { display: block; margin-bottom: 20px; }\n    .mauticform-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }\n    .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: \" *\"; display: inline; }\n    .mauticform-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }\n    .mauticform-errormsg { display: block; color: red; margin-top: 2px; }\n    .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border: 1px solid #CCC; background: #fff; box-shadow: 0px 0px 0px #fff inset; border-radius: 4px; box-sizing: border-box; }\n    .mauticform-checkboxgrp-row {}\n    .mauticform-checkboxgrp-label { font-weight: normal; }\n    .mauticform-checkboxgrp-checkbox {}\n    .mauticform-radiogrp-row {}\n    .mauticform-radiogrp-label { font-weight: normal; }\n    .mauticform-radiogrp-radio {}\n    .mauticform-button-wrapper .mauticform-button.btn-default, .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-default { color: #5d6c7c;background-color: #ffffff;border-color: #dddddd;}\n    .mauticform-button-wrapper .mauticform-button, .mauticform-pagebreak-wrapper .mauticform-pagebreak { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 6px 12px;font-size: 13px;line-height: 1.3856;border-radius: 3px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}\n    .mauticform-button-wrapper .mauticform-button.btn-default[disabled], .mauticform-pagebreak-wrapper .mauticform-pagebreak.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd; opacity: 0.75; cursor: not-allowed; }\n    .mauticform-pagebreak-wrapper .mauticform-button-wrapper {  display: inline; }\n</style>\n<div id=\"mauticform_wrapper_kontaktos\" class=\"mauticform_wrapper\">\n    <form autocomplete=\"false\" role=\"form\" method=\"post\" action=\"https://solman.mautic.net/form/submit?formId=8\" id=\"mauticform_kontaktos\" data-mautic-form=\"kontaktos\" target=\"mauticiframe_kontaktos\">\n        <div class=\"mauticform-error\" id=\"mauticform_kontaktos_error\"></div>\n        <div class=\"mauticform-message\" id=\"mauticform_kontaktos_message\"></div>\n        <div class=\"mauticform-innerform\">\n\n            \n          <div class=\"mauticform-page-wrapper mauticform-page-1\" data-mautic-form-page=\"1\">\n\n            <div id=\"mauticform_kontaktos_kontakt_os\" class=\"mauticform-row mauticform-freetext mauticform-field-1\">    \n                <h3 id=\"mauticform_label_kontaktos_kontakt_os\" for=\"mauticform_input_kontaktos_kontakt_os\" class=\"mauticform-label\">\n                    Kontakt os\n                </h3>\n                <div id=\"mauticform_input_kontaktos_kontakt_os\" name=\"mauticform[kontakt_os]\" value=\"\" class=\"mauticform-freetext\">\n                    <p class=\"\"><strong fr-original-style=\"font-weight: 700;\" style=\"font-weight: 700;\">Vil du gerne vide mere?</strong> Vi er til rådighed via opkald, møder eller webinars for at vise vores software og innovative forretningsløsninger samt diskutere, hvordan vi kan hjælpe din virksomhed.</p>\n                </div>\n            </div>\n\n            <div id=\"mauticform_kontaktos_full_name\" data-validate=\"full_name\" data-validation-type=\"text\" class=\"mauticform-row mauticform-text mauticform-field-2 mauticform-required\">\n                <label id=\"mauticform_label_kontaktos_full_name\" for=\"mauticform_input_kontaktos_full_name\" class=\"mauticform-label\">Fuldt Navn</label>\n                <input id=\"mauticform_input_kontaktos_full_name\" name=\"mauticform[full_name]\" value=\"\" placeholder=\"Indtast navn\" class=\"mauticform-input\" type=\"text\">\n                <span class=\"mauticform-errormsg\" style=\"display: none;\">Please enter your name</span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_email\" data-validate=\"email\" data-validation-type=\"email\" class=\"mauticform-row mauticform-email mauticform-field-3 mauticform-required\">\n                <label id=\"mauticform_label_kontaktos_email\" for=\"mauticform_input_kontaktos_email\" class=\"mauticform-label\">Email</label>\n                <input id=\"mauticform_input_kontaktos_email\" name=\"mauticform[email]\" value=\"\" placeholder=\"Indtast email\" class=\"mauticform-input\" type=\"email\">\n                <span class=\"mauticform-errormsg\" style=\"display: none;\">Please enter your email</span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_telefon\" data-validate=\"telefon\" data-validation-type=\"text\" class=\"mauticform-row mauticform-text mauticform-field-4 mauticform-required\">\n                <label id=\"mauticform_label_kontaktos_telefon\" for=\"mauticform_input_kontaktos_telefon\" class=\"mauticform-label\">Telefon</label>\n                <input id=\"mauticform_input_kontaktos_telefon\" name=\"mauticform[telefon]\" value=\"\" class=\"mauticform-input\" type=\"text\">\n                <span class=\"mauticform-errormsg\" style=\"display: none;\">Venligst indast telefonnummer</span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_sporgsmal\" class=\"mauticform-row mauticform-text mauticform-field-5\">\n                <label id=\"mauticform_label_kontaktos_sporgsmal\" for=\"mauticform_input_kontaktos_sporgsmal\" class=\"mauticform-label\">Spørgsmål</label>\n                <textarea id=\"mauticform_input_kontaktos_sporgsmal\" name=\"mauticform[sporgsmal]\" class=\"mauticform-textarea\"></textarea>\n                <span class=\"mauticform-errormsg\" style=\"display: none;\"></span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_software_der_interesserer\" class=\"mauticform-row mauticform-checkboxgrp mauticform-field-6\">\n                <label class=\"mauticform-label\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_DokumenthandteringESDHMFiles1\">Software, der interesserer mig</label>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_software_der_interesserer_DokumenthandteringESDHMFiles0\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_DokumenthandteringESDHMFiles0\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[software_der_interesserer][]\" id=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_DokumenthandteringESDHMFiles0\" type=\"checkbox\" value=\"Dokumenthåndtering, ESDH (M-Files)\">\n                        Dokumenthåndtering, ESDH (M-Files)\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_software_der_interesserer_ProcesstyringQMSNimbus1\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_ProcesstyringQMSNimbus1\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[software_der_interesserer][]\" id=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_ProcesstyringQMSNimbus1\" type=\"checkbox\" value=\"Processtyring, QMS (Nimbus)\">\n                        Processtyring, QMS (Nimbus)\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_software_der_interesserer_LowCodelosningerogappstilintraogextranetIntrexx2\" for=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_LowCodelosningerogappstilintraogextranetIntrexx2\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[software_der_interesserer][]\" id=\"mauticform_checkboxgrp_checkbox_software_der_interesserer_LowCodelosningerogappstilintraogextranetIntrexx2\" type=\"checkbox\" value=\"Low-Code løsninger og apps til intra- og extranet (Intrexx)\">\n                        Low-Code løsninger og apps til intra- og extranet (Intrexx)\n                    </label>\n                </div>\n                <span class=\"mauticform-errormsg\" style=\"display: none;\"></span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_jeg_vil\" class=\"mauticform-row mauticform-checkboxgrp mauticform-field-7\">\n                <label class=\"mauticform-label\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faentrial1\">Jeg vil</label>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Faentrial0\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faentrial0\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faentrial0\" type=\"checkbox\" value=\"Få en trial\">\n                        Få en trial\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Faenpersonligdemo1\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faenpersonligdemo1\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faenpersonligdemo1\" type=\"checkbox\" value=\"Få en personlig demo\">\n                        Få en personlig demo\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Faettelefonopkald2\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faettelefonopkald2\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Faettelefonopkald2\" type=\"checkbox\" value=\"Få et telefonopkald\">\n                        Få et telefonopkald\n                    </label>\n                </div>\n                <div class=\"mauticform-checkboxgrp-row\">\n                    <label id=\"mauticform_checkboxgrp_label_jeg_vil_Fainformationsendttilminmail3\" for=\"mauticform_checkboxgrp_checkbox_jeg_vil_Fainformationsendttilminmail3\" class=\"mauticform-checkboxgrp-label\">\n                        <input class=\"mauticform-checkboxgrp-checkbox\" name=\"mauticform[jeg_vil][]\" id=\"mauticform_checkboxgrp_checkbox_jeg_vil_Fainformationsendttilminmail3\" type=\"checkbox\" value=\"Få information sendt til min mail\">\n                        Få information sendt til min mail\n                    </label>\n                </div>\n                <span class=\"mauticform-errormsg\" style=\"display: none;\"></span>\n            </div>\n\n            <div id=\"mauticform_kontaktos_submit\" class=\"mauticform-row mauticform-button-wrapper mauticform-field-8\">\n                <button type=\"submit\" name=\"mauticform[submit]\" id=\"mauticform_input_kontaktos_submit\" value=\"\" class=\"mauticform-button\">Send</button>\n            </div>\n            <div id=\"mauticform_kontaktos_contact\" class=\"mauticform-row mauticform-freetext mauticform-field-9\">\n                <div id=\"mauticform_input_kontaktos_contact\" name=\"mauticform[contact]\" value=\"\" class=\"mauticform-freetext\">\n                    <p class=\"\"></p><table style=\"width: 100%;\"><tbody><tr><td style=\"width: 50.0000%;\"><img fr-original-class=\"fr-dii fr-draggable fr-fil\" fr-original-style=\"position: relative; max-width: 100%; width: 220px;\" style=\"max-width: 100%; width: 220px;\" src=\"http://solutionmanagement.eu/dansk/wp-content/uploads/steen-circle-photo.png\" alt=\"steen-circle-photo\" height=\"220\" width=\"220\" class=\"fr-fil fr-dii\"><br></td><td style=\"width: 50.0000%;\"><strong>Steen Madsen</strong><br>Det er Steen der kommer til at hjelpe deg med din forespørgsel. Hvis det är noget du er i tvivl om, så ring eller skriv til ham.<br><br><strong>Mobile:</strong> +45 2141 6100<br>steen.madsen@solutionmanagement.eu<br></td></tr></tbody></table>\n                </div>\n            </div>\n\n            </div>\n        </div>\n\n        <input type=\"hidden\" name=\"mauticform[formId]\" id=\"mauticform_kontaktos_id\" value=\"8\" class=\"animated fadeInUp\">\n        <input type=\"hidden\" name=\"mauticform[return]\" id=\"mauticform_kontaktos_return\" value=\"\" class=\"animated fadeInUp\">\n        <input type=\"hidden\" name=\"mauticform[formName]\" id=\"mauticform_kontaktos_name\" value=\"kontaktos\" class=\"animated fadeInUp\">\n<input type=\"hidden\" name=\"mauticform[messenger]\" id=\"mauticform_kontaktos_messenger\" value=\"1\"></form>\n</div>\n\n            </div>\n        </div>\n    </div>\n\n</section>\n            </div>\n        </div>\n    </div>\n\n</section>\n    \n<div class=\"contact-form\"></div></div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\">\n\n    /** This section is only needed once per page if manually copying **/\n    if (typeof MauticSDKLoaded == 'undefined') {\n        var MauticSDKLoaded = true;\n        var head            = document.getElementsByTagName('head')[0];\n        var script          = document.createElement('script');\n        script.type         = 'text/javascript';\n        script.src          = 'https://solman.mautic.net/mautic/media/js/mautic-form.js';\n        script.onload       = function() {\n            MauticSDK.onLoad();\n        };\n        head.appendChild(script);\n        var MauticDomain = 'https://solman.mautic.net';\n        var MauticLang   = {\n            'submittingMessage': \"Please wait...\"\n        }\n    }\n</script>"
+          ],
+          "_customCSS": ".contact-form {color:#FFF}\n.contact-form button, input, select, textarea {color:#333}",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_anchor": "content1-x"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "17px",
+              "color": "#cccccc",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            "B": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "_anchor": "contacts1-y",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
